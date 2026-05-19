@@ -14,56 +14,30 @@ Currently building systems in the hospitality technology space for MGM Resorts I
 - Transactional systems and payment flows
 - Full-stack architecture with Node.js and GraphQL
 - Production debugging and operational reliability
-- Rapid prototyping and greenfield product delivery
-- AI-assisted engineering workflows and tooling
-
----
-
-## Experience Highlights
-
-### MGM Resorts International
-- Led development across 6 production applications serving thousands of daily users
-- Built systems supporting digital check-in/out, booking, and payments
-- Owned major greenfield implementations end-to-end
-- Resolved launch-blocking infrastructure and CDN issues in production environments
-- Led internal AI-assisted development pilot initiatives
-
-### Previous Work
-- Modernized legacy auditing systems with 1M+ LOC at TPS Alert
-- Built a learning management platform from the ground up at Spherexx
-- Maintained high-traffic multi-tenant web platforms used daily at scale
+- Greenfield product development
+- AI-assisted engineering workflows
 
 ---
 
 ## Tech
 
-### Languages
-- TypeScript
-- JavaScript
-- SQL
-- HTML/CSS
-
-### Frameworks & Platforms
-- React
-- Next.js
-- Node.js
-- GraphQL
-- Laravel
-- Vue.js
+```txt
+TypeScript • JavaScript • React • Next.js
+Node.js • GraphQL • SQL • Laravel • Vue.js
+```
 
 ---
 
-## Engineering Philosophy
+## Principles
 
 - Optimize for shipping
 - Prefer clarity over abstraction
-- Solve operational realities, not theoretical ones
 - Own systems end-to-end
-- Move fast without creating fragility
+- Solve operational realities, not theoretical ones
 
 ---
 
 ## Links
 
-- Portfolio: <PRIVATE_URL>
-- LinkedIn: <PRIVATE_URL>
+- Portfolio → https://justinseawell.com
+- LinkedIn → https://linkedin.com/in/justinseawell
