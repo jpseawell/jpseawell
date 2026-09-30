@@ -31,5 +31,5 @@ Node.js • GraphQL • SQL • Laravel • Vue.js
 
 ## Links
 
-- Portfolio → https://justinseawell.com
+- Portfolio → https://seawell.dev
 - LinkedIn → https://linkedin.com/in/justinseawell
