@@ -1,6 +1,6 @@
 # Justin Seawell
 
-Senior Software Engineer focused on building production-grade web applications at scale.
+Proven Software Engineer focused on building production-grade web applications at scale.
 
 I specialize in shipping customer-facing systems under real operational constraints — transactional flows, uptime-sensitive platforms, production debugging, and rapid delivery from greenfield to launch.
 
