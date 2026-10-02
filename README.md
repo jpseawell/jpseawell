@@ -15,19 +15,9 @@ Currently building systems in the hospitality technology space for MGM Resorts I
 - Greenfield product development
 - AI-assisted engineering workflows
 
-## Tech
-
-```txt
-TypeScript • JavaScript • React • Next.js
-Node.js • GraphQL • SQL • Laravel • Vue.js
-```
-
 ## Principles
 
-- Optimize for shipping
-- Prefer clarity over abstraction
-- Own systems end-to-end
-- Solve operational realities, not theoretical ones
+- Move fast
 
 ## Links
 
